@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nursing-care-system/static/css/main.82175b79.css",
+    "main.js": "/nursing-care-system/static/js/main.05b7630f.js",
+    "static/js/453.5d23a0db.chunk.js": "/nursing-care-system/static/js/453.5d23a0db.chunk.js",
+    "index.html": "/nursing-care-system/index.html",
+    "main.82175b79.css.map": "/nursing-care-system/static/css/main.82175b79.css.map",
+    "main.05b7630f.js.map": "/nursing-care-system/static/js/main.05b7630f.js.map",
+    "453.5d23a0db.chunk.js.map": "/nursing-care-system/static/js/453.5d23a0db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82175b79.css",
+    "static/js/main.05b7630f.js"
+  ]
+}
